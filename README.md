@@ -1,4 +1,4 @@
-# Processor-Comparison-Project
+# Processor Comparison Project
 
 
 ## Overview
